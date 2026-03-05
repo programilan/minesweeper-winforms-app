@@ -1,4 +1,4 @@
-# Doge-themed Minesweeper built (for some weird reason) with WinForms
+# Doge-themed Minesweeper built with WinForms
 
 <p align="center">
   <img src="minesweeper.png" alt="Minesweeper">
